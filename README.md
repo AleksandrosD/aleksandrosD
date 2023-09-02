@@ -13,8 +13,7 @@
 
 <a height="200" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleksandrosD&theme=tokyonight&layout=compact&repo=github-readme-stats" height="200" />
-</a>
-<a  height="200">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AleksandrosD&theme=tokyonight&repo=convoychat" height="200"/>
 </a>
 
